@@ -1,0 +1,14 @@
+d:\КПІ\OOP\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+d:\КПІ\OOP\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+d:\КПІ\OOP\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+d:\КПІ\OOP\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+d:\КПІ\OOP\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+d:\КПІ\OOP\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+d:\КПІ\OOP\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+d:\КПІ\OOP\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+d:\КПІ\OOP\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+d:\КПІ\OOP\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+d:\КПІ\OOP\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+d:\КПІ\OOP\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+d:\КПІ\OOP\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+d:\КПІ\OOP\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
