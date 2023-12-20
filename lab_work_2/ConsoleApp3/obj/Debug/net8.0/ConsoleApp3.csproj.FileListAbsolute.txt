@@ -1,0 +1,15 @@
+D:\КПІ\Shulyhin oop\lab_work_2\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.exe
+D:\КПІ\Shulyhin oop\lab_work_2\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.deps.json
+D:\КПІ\Shulyhin oop\lab_work_2\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.runtimeconfig.json
+D:\КПІ\Shulyhin oop\lab_work_2\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.dll
+D:\КПІ\Shulyhin oop\lab_work_2\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.pdb
+D:\КПІ\Shulyhin oop\lab_work_2\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\КПІ\Shulyhin oop\lab_work_2\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\КПІ\Shulyhin oop\lab_work_2\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfo.cs
+D:\КПІ\Shulyhin oop\lab_work_2\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\КПІ\Shulyhin oop\lab_work_2\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.sourcelink.json
+D:\КПІ\Shulyhin oop\lab_work_2\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.dll
+D:\КПІ\Shulyhin oop\lab_work_2\ConsoleApp3\obj\Debug\net8.0\refint\ConsoleApp3.dll
+D:\КПІ\Shulyhin oop\lab_work_2\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.pdb
+D:\КПІ\Shulyhin oop\lab_work_2\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.genruntimeconfig.cache
+D:\КПІ\Shulyhin oop\lab_work_2\ConsoleApp3\obj\Debug\net8.0\ref\ConsoleApp3.dll
