@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{C4EE0468-00A9-4CD4-BAED-05E0197563DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "..\lab_work_2\WebApplication1\WebApplication1.csproj", "{34C258F2-3251-45A5-9A01-FFEF5C40B01A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "..\lab_work_2\ConsoleApp3\ConsoleApp3.csproj", "{CE5A0899-822C-4174-8CAE-9DE5BE28C6F8}"
 EndProject
 Global
