@@ -1,7 +1,5 @@
-using System;
-using System.Collections.Generic;
 
-public class GameAccount(InheritPlayer player)
+public class GameAccount(InheritPlayer player) // Створення ігрового аккаунту для запису даних
 {
     public InheritPlayer Player { get; set; } = player;
     private List<Game> gamesHistory = [];

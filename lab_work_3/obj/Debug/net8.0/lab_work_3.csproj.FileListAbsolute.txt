@@ -1,0 +1,15 @@
+D:\КПІ\Shulyhin oop\lab_work_3\bin\Debug\net8.0\lab_work_3.exe
+D:\КПІ\Shulyhin oop\lab_work_3\bin\Debug\net8.0\lab_work_3.deps.json
+D:\КПІ\Shulyhin oop\lab_work_3\bin\Debug\net8.0\lab_work_3.runtimeconfig.json
+D:\КПІ\Shulyhin oop\lab_work_3\bin\Debug\net8.0\lab_work_3.dll
+D:\КПІ\Shulyhin oop\lab_work_3\bin\Debug\net8.0\lab_work_3.pdb
+D:\КПІ\Shulyhin oop\lab_work_3\obj\Debug\net8.0\lab_work_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\КПІ\Shulyhin oop\lab_work_3\obj\Debug\net8.0\lab_work_3.AssemblyInfoInputs.cache
+D:\КПІ\Shulyhin oop\lab_work_3\obj\Debug\net8.0\lab_work_3.AssemblyInfo.cs
+D:\КПІ\Shulyhin oop\lab_work_3\obj\Debug\net8.0\lab_work_3.csproj.CoreCompileInputs.cache
+D:\КПІ\Shulyhin oop\lab_work_3\obj\Debug\net8.0\lab_work_3.sourcelink.json
+D:\КПІ\Shulyhin oop\lab_work_3\obj\Debug\net8.0\lab_work_3.dll
+D:\КПІ\Shulyhin oop\lab_work_3\obj\Debug\net8.0\refint\lab_work_3.dll
+D:\КПІ\Shulyhin oop\lab_work_3\obj\Debug\net8.0\lab_work_3.pdb
+D:\КПІ\Shulyhin oop\lab_work_3\obj\Debug\net8.0\lab_work_3.genruntimeconfig.cache
+D:\КПІ\Shulyhin oop\lab_work_3\obj\Debug\net8.0\ref\lab_work_3.dll

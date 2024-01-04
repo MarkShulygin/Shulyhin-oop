@@ -1,5 +1,4 @@
-using System;
-
+//Створення базового класу гравця для наслідування
 public abstract class InheritPlayer
 {
     public string UName { get; protected set; }
@@ -15,16 +14,12 @@ public abstract class InheritPlayer
 
     public abstract int WinGame(BaseGame game, string opponentName);
     public abstract int LoseGame(BaseGame game);
-    public abstract void GetStats();
+
 }
 
-
-public class SimplePlayer : InheritPlayer
+// Звичайний гравець з прописаними для нього Win та Lose
+public class SimplePlayer(string userName, int initialRating) : InheritPlayer(userName, initialRating)
 {
-    public SimplePlayer(string userName, int initialRating) : base(userName, initialRating)
-    {
-    }
-
     public override int WinGame(BaseGame game, string opponentName)
     {
         int points = game.CalculateRatingChange();
@@ -38,22 +33,14 @@ public class SimplePlayer : InheritPlayer
         Console.WriteLine($"{UName} lost. Rating: -{points}. Current Rating: {CurrentRating - points}");
         return points;
     }
-
-    public override void GetStats()
-    {
-        Console.WriteLine($"Stats for {UName}: Rating: {CurrentRating}, Games Played: {GamesCount}");
-    }
 }
 
-public class ReducedRating : InheritPlayer
+// Граець зі зменшеним покаранням та прописаними для нього Win та Lose
+public class ReducedRating(string userName, int initialRating) : InheritPlayer(userName, initialRating)
 {
-    public ReducedRating(string userName, int initialRating) : base(userName, initialRating)
-    {
-    }
-
     public override int WinGame(BaseGame game, string opponentName)
     {
-        int points = game.CalculateRatingChange() / 2;
+        int points = game.CalculateRatingChange();
         Console.WriteLine($"{UName} won against {opponentName}. Rating: +{points}. Current Rating: {CurrentRating + points}");
         return points;
     }
@@ -64,21 +51,12 @@ public class ReducedRating : InheritPlayer
         Console.WriteLine($"{UName} lost. Rating: -{points}. Current Rating: {CurrentRating - points}");
         return points;
     }
-
-    public override void GetStats()
-    {
-        // Console.WriteLine($"Stats for {UserName}: Rating: {CurrentRating}, Games Played: {GamesCount}");
-    }
 }
 
-public class StreakRating : InheritPlayer
+// Гравець який має переможний стрік та з прописаними для нього Win та Lose
+public class StreakRating(string userName, int initialRating) : InheritPlayer(userName, initialRating)
 {
-    private int consecutiveWins;
-
-    public StreakRating(string userName, int initialRating) : base(userName, initialRating)
-    {
-        consecutiveWins = 0;
-    }
+    private int consecutiveWins = 0;
 
     public override int WinGame(BaseGame game, string opponentName)
     {
@@ -98,10 +76,5 @@ public class StreakRating : InheritPlayer
         consecutiveWins = 0;
         Console.WriteLine($"{UName} lost. Rating: -{points}. Current Rating: {CurrentRating - points}");
         return points;
-    }
-    
-    public override void GetStats()
-    {
-        // Console.WriteLine($"Stats for {UserName}: Rating: {CurrentRating}, Games Played: {GamesCount}");
     }
 }

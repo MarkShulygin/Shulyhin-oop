@@ -1,17 +1,13 @@
 public class GameFactory
 {
-    public BaseGame CreateGame(string gameType)
+    public BaseGame CreateGame(string Type) //Метод для створення гри
     {
-        switch (gameType)
+        return Type switch
         {
-            case "Standard":
-                return new StandardGame();
-            case "Training":
-                return new TrainingGame();
-            case "SinglePlayer":
-                return new SinglePlayerGame();
-            default:
-                throw new ArgumentException("Invalid game type");
-        }
+            "Standard" => new StandardGame(),
+            "Training" => new TrainingGame(),
+            "SinglePlayer" => new SinglePlayerGame(),
+            _ => throw new ArgumentException("Invalid game type"),
+        };
     }
 }

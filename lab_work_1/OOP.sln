@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "..\lab_work_2\ConsoleApp3\ConsoleApp3.csproj", "{CE5A0899-822C-4174-8CAE-9DE5BE28C6F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab_work_3", "..\lab_work_3\lab_work_3.csproj", "{588268A8-3466-4EAD-8FD0-E70027886920}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kursova", "..\kursova\kursova.csproj", "{DD27129E-3AFB-4374-BE6C-0B3981CEF560}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{CE5A0899-822C-4174-8CAE-9DE5BE28C6F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE5A0899-822C-4174-8CAE-9DE5BE28C6F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE5A0899-822C-4174-8CAE-9DE5BE28C6F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{588268A8-3466-4EAD-8FD0-E70027886920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588268A8-3466-4EAD-8FD0-E70027886920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588268A8-3466-4EAD-8FD0-E70027886920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588268A8-3466-4EAD-8FD0-E70027886920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD27129E-3AFB-4374-BE6C-0B3981CEF560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD27129E-3AFB-4374-BE6C-0B3981CEF560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD27129E-3AFB-4374-BE6C-0B3981CEF560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD27129E-3AFB-4374-BE6C-0B3981CEF560}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
